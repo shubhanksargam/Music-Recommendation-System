@@ -1,2 +1,2 @@
 # Music-Recommendation-System
-Foretelling the possibility of a user listening the song on loop within a time frame. 
+Recommendations done using content-based recommenders as a user-specific classification problem. This classifier learns the user's likes and dislikes from the features of the song.
